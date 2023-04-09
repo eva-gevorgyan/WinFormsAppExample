@@ -1,0 +1,38 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.Form1.resources
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.Properties.Resources.resources
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\refint\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\ref\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.Form2.resources
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.exe
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.deps.json
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\bin\Debug\net6.0-windows\CarsPr.pdb
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.Form1.resources
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.Form2.resources
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.Properties.Resources.resources
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\refint\CarsPr.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.pdb
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\CarsPr.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\CarsPr\CarsPr\obj\Debug\net6.0-windows\ref\CarsPr.dll
